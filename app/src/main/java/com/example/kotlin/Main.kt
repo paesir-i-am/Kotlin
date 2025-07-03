@@ -1,5 +1,5 @@
 package com.example.kotlin
 
 fun main() {
-    println("Hello World!")
+    println("Hello World")
 }
